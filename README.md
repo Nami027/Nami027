@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nami027
+- 👀 I’m interested in aprender 
+- 🌱 I’m currently learning Java
